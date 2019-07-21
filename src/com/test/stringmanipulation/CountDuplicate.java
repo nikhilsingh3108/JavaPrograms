@@ -26,8 +26,7 @@ public class CountDuplicate {
 		
 		System.out.println(hm);
 		
-		//C:\Program Files\Git
-		C:\Program Files\Git\cmd\git.exe
+		System.out.println("just to chec git bahaviour");
 		
 		
 		
